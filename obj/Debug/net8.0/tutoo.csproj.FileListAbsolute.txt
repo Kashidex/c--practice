@@ -1,0 +1,14 @@
+C:\Users\ardad\Desktop\Yazılım\Projeler\C#\tutoo\bin\Debug\net8.0\tutoo.exe
+C:\Users\ardad\Desktop\Yazılım\Projeler\C#\tutoo\bin\Debug\net8.0\tutoo.deps.json
+C:\Users\ardad\Desktop\Yazılım\Projeler\C#\tutoo\bin\Debug\net8.0\tutoo.runtimeconfig.json
+C:\Users\ardad\Desktop\Yazılım\Projeler\C#\tutoo\bin\Debug\net8.0\tutoo.dll
+C:\Users\ardad\Desktop\Yazılım\Projeler\C#\tutoo\bin\Debug\net8.0\tutoo.pdb
+C:\Users\ardad\Desktop\Yazılım\Projeler\C#\tutoo\obj\Debug\net8.0\tutoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardad\Desktop\Yazılım\Projeler\C#\tutoo\obj\Debug\net8.0\tutoo.AssemblyInfoInputs.cache
+C:\Users\ardad\Desktop\Yazılım\Projeler\C#\tutoo\obj\Debug\net8.0\tutoo.AssemblyInfo.cs
+C:\Users\ardad\Desktop\Yazılım\Projeler\C#\tutoo\obj\Debug\net8.0\tutoo.csproj.CoreCompileInputs.cache
+C:\Users\ardad\Desktop\Yazılım\Projeler\C#\tutoo\obj\Debug\net8.0\tutoo.dll
+C:\Users\ardad\Desktop\Yazılım\Projeler\C#\tutoo\obj\Debug\net8.0\refint\tutoo.dll
+C:\Users\ardad\Desktop\Yazılım\Projeler\C#\tutoo\obj\Debug\net8.0\tutoo.pdb
+C:\Users\ardad\Desktop\Yazılım\Projeler\C#\tutoo\obj\Debug\net8.0\tutoo.genruntimeconfig.cache
+C:\Users\ardad\Desktop\Yazılım\Projeler\C#\tutoo\obj\Debug\net8.0\ref\tutoo.dll
